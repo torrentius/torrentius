@@ -1,11 +1,8 @@
 ### 👋 Hi, I'm Jose
-Solution and Software Broadband Architect for RDK-B
+Solution and Software Broadband Architect for RDK-B with 25+ years in telecom (Siemens, Nokia, Tele2, Liberty Global, Comcast)
 
-🔹 25+ years in telecom (Siemens, Nokia, Tele2, Liberty Global, Comcast)  
-🔹 Expert in Rust, C/C++, Python, Java
-🔹 Technologies 
-🔹 Community contributions: CellularManager, EasyMesh, IEEE1905, AppFrameworks, Networking, Synchronization, Security.......
-
+### 🤝 Community Contributions
+- RDK-B projects: CellularManager, EasyMesh, PonManager, AppFrameworks, Networking, Synchronization, Security
 
 ### 📡 Domains & Technologies
 
