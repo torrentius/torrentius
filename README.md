@@ -14,4 +14,8 @@ Solution and Software Broadband Architect for RDK-B with 25+ years in telecom (S
 | **Programming** | Rust, C/C++, Python, Java |
 | **Security**    | PKI, TLS, PKCS#11 |
 
-### 🌍 Find me on Mastodon: [@broadbander@mastodon.social]  
+### Links
+- Personal profile: [@broadbander@mastodon.social]
+- RDK work: https://github.com/torrentius
+- Personal work: https://github.com/broadbander
+
