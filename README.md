@@ -42,4 +42,6 @@ systems across vendors and operators.
 - RDK / domain-specific work: https://github.com/torrentius
 - Architecture & systems work: https://github.com/broadbander
 
+### Contact
 
+[![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square&logo=protonmail)](mailto:github-torrentius@broadbander.simplelogin.com)
